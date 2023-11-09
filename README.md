@@ -1,11 +1,11 @@
 ### Greetings From Tasnim 👋
-- 👩‍🏫 I’m currently working as a Program Manager.
-- 🌱 I’m currently learning Frontend and Backend Web Development skills.
+- 👩‍🏫 I’m currently a student of UC Berkeley Full-stack-flex Coding Bootcamp.
+- 🌱 I’m learning Frontend and Backend Web Development skills as well as practicing my soft skills.
 - 🔭 I’m looking to collaborate on different projects related to Web Develpment.
 - 🤔 I’m Open to work for TPM, Web Dev etc
-- 💬 Skills I am confident about: HTML/CSS, Bootstrap, Bulma CSS, API, JavaScript, Node.js
+- 💬 Skills I am confident about so far: HTML/CSS, Bootstrap, Bulma CSS, API, JavaScript, Node.js
 - 📫 How to reach me: Please feel free to email me. I check my email regularly.
-- ⚡ Fun fact: It's a secret 😜
+- ⚡ Fun fact: That's a secret 😜
   
 <!--
 **thalim-glam/thalim-glam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
