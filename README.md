@@ -2,7 +2,7 @@
 - 👩‍🏫 I’m currently a student of UC Berkeley Full-stack-flex Coding Bootcamp.
 - 🌱 I’m learning Frontend and Backend Web Development skills as well as practicing my soft skills.
 - 🔭 I’m looking to collaborate on different projects related to Web Develpment.
-- 🤔 I’m Open to work for TPM, Web Dev etc
+- 🤔 I’m Open to work for TPM, Web Dev roles
 - 💬 Skills I am confident about so far: HTML/CSS, Bootstrap, Bulma CSS, API, JavaScript, Node.js
 - 📫 How to reach me: Please feel free to email me. I check my email regularly.
 - ⚡ Fun fact: That's a secret 😜
