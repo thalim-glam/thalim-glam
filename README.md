@@ -5,7 +5,7 @@
 - 🤔 I’m Open to work for Data analyst, Web Dev roles
 - 💬 Skills I am confident about so far: HTML/CSS, Bootstrap, Bulma CSS, API, JavaScript, Node.js
 - 📫 How to reach me: Please feel free to email me. I check my email regularly.
-- ⚡ Fun fact: That's a secret 😜
+- ⚡ Fun fact: No fun fact. I am a boring human
   
 <!--
 **thalim-glam/thalim-glam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
