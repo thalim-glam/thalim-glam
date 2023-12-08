@@ -6,7 +6,9 @@
 - 💬 Skills I am confident about so far: HTML/CSS, Bootstrap, Bulma CSS, API, JavaScript, Node.js
 - 📫 How to reach me: Please feel free to email me. I check my email regularly.
 - ⚡ Fun fact: No fun fact. I am a boring human
-  
+
+  [![Visitors](https://api.visitorbadge.io/api/visitors?path=thalim-glam%20%2F%20thalim-glam&label=Visitor%20Count&countColor=%23263759&labelStyle=upper)](https://visitorbadge.io/status?path=thalim-glam%20%2F%20thalim-glam)
+
 <!--
 **thalim-glam/thalim-glam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
