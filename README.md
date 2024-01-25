@@ -6,8 +6,10 @@
 - 💬 Skills I am confident about so far: HTML/CSS, Bootstrap, Bulma CSS, API, JavaScript, Node.js, Express.js, MySQL, Tailwind CSS.
 - 📫 How to reach me: Please feel free to email me. I check my email regularly.
 - 👯 I love to do Volunteer works! Please feel free to reach out to me if you think I can help you.
+-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalim-glam&label=Number%20of%20Visitors%20&labelColor=%23d9e3f0&countColor=%23dce775&style=plastic&labelStyle=upper)
 
-  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalim-glam&label=Number%20of%20Visitors%20&labelColor=%23d9e3f0&countColor=%23dce775&style=plastic&labelStyle=upper)
+
+![Tasneem's github stats](https://github-readme-stats.vercel.app/api?username=thalim-glam)
 <!--
 **thalim-glam/thalim-glam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
