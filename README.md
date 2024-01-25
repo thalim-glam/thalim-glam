@@ -8,12 +8,14 @@
 - 👯 I love to do Volunteer works! Please feel free to reach out to me if you think I can help you.
 -  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalim-glam&label=Number%20of%20Visitors%20&labelColor=%23d9e3f0&countColor=%23dce775&style=plastic&labelStyle=upper)
 
+ [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thalim-glam&langs_count=5&theme=tokyonight)]()
 
-![Tasneem's github stats](https://github-readme-stats.vercel.app/api?username=thalim-glam)
 <!--
 **thalim-glam/thalim-glam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=thalim-glam&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thalim-glam&langs_count=5&theme=tokyonight)]()
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
