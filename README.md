@@ -1,11 +1,10 @@
-### Greetings From Tasnim 👋
-- 👩‍🏫 I am currently a student of UC Berkeley Full-stack-flex Coding Bootcamp.
--  🔭 I’m looking for a Full-time Job.
-- 🌱 Learning Frontend and Backend Web Development skills as well as practicing my soft skills.
-- 🤔 I’m Open to work for roles like Full-stack Web Dev, Frontend Web Dev, Backend Web Dev, as well as educating Web Development courses.
-- 💬 Learnt Technical Languages: Javascript, HTML/ CSS, jQuery, Responsive Design, Bootstrap, React.js, Node.js, MongoDB, Mongoose, MySQL, Heroku, Security and Session Storage, and User Authentication.
-- 📫 How to reach me: Please feel free to email me. I check my email regularly.
-- 👯 I love to do Volunteer works! Please feel free to reach out to me if you think I can help you.
+## Welcome to my GitHub page 👋
+- 👩‍🏫 My name is Tasneem Halim (Tasnim).
+-  🔭 I’m a Full stack developer looking for a permanent Job.
+- 🌱 I have done my Masters in Computer Science from University of Tennessee.
+- 🤔 My Technical skill includes: MERN, MEAN, State, Node.js, React.js, MongoDB, MySQL, Javascript, Typescript, Tailwind, HTML/ CSS, jQuery, Responsive Design, Bootstrap, Java, Python, C/C++, Network security, Session Storage, and User Authentication.
+- 📫 Please feel free to email me. I check my email regularly.
+- 👯 I am passionate about Volunteer works! So please feel free to reach out to me if you think I can help you.
 -  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalim-glam&label=Number%20of%20Visitors%20&labelColor=%23d9e3f0&countColor=%23dce775&style=plastic&labelStyle=upper)
 
 ### How to Contact me:
