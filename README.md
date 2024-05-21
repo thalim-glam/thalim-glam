@@ -1,6 +1,6 @@
 ## Welcome to my GitHub page 👋
 - 👩‍🏫 My name is Tasneem Halim (Tasnim).
-- 🔭 I’m a Full stack developer looking for a job opportunity.
+- 🔭 I’m a Freelancer Web developer looking for a job opportunity. Resume: https://docs.google.com/document/d/1cWSVG9B9xUMTH3e2A0-5Sx9IeR_3vIqggKGWT_Vtl9w/edit?usp=sharing
 - 🌱 I have done my Masters in Computer Science from University of Tennessee Knoxville.
 - 🤔 My Technical skill includes: Full stack development-(MERN)&(MEAN), State, Node.js, React.js, MongoDB, MySQL, Javascript, Typescript, Tailwind, HTML/ CSS, jQuery, Responsive Design, Bootstrap, Java, Python, C/C++, Network security, Session Storage, and JWT Authentication.
 - 📫 Please feel free to email me at shch.dhaka@gmail.com. I check my email regularly.
