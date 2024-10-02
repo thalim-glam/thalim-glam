@@ -2,7 +2,6 @@
 - 👩‍🏫 My name is Tasneem Halim (Tasnim).
 - 🌱 I have done my Masters in Computer Science from University of Tennessee Knoxville.
 - 🤔 My Technical skill includes: Full stack development-(MERN)&(MEAN), State, Node.js, React.js, MongoDB, MySQL, Javascript, Typescript, Tailwind, HTML/ CSS, jQuery, Responsive Design, Bootstrap, Java, Python, C/C++, Network security, Session Storage, and JWT Authentication.
-- 📫 Please feel free to email me at shch.dhaka@gmail.com. I check my email regularly.
 - 👯 I am passionate about Volunteer works too! So please feel free to reach out to me.
 -  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalim-glam&label=Number%20of%20Visitors%20&labelColor=%23d9e3f0&countColor=%23dce775&style=plastic&labelStyle=upper)
 
