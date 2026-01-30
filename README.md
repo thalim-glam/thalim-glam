@@ -18,9 +18,7 @@
     <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
  </a>
  
-### My GitHub Status:
-![Tasneem's GitHub status](https://github-readme-stats.vercel.app/api?username=thalim-glam&theme=nightowl&show_icons=true) &nbsp;
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=thalim-glam&langs_count=5&theme=tokyonight)]()
+
 
 <!--
 **thalim-glam/thalim-glam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
