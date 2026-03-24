@@ -5,18 +5,7 @@
 - 👯 I am passionate about Volunteer works too! So please feel free to reach out to me.
 -  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthalim-glam&label=Number%20of%20Visitors%20&labelColor=%23d9e3f0&countColor=%23dce775&style=plastic&labelStyle=upper)
 
-### How to Contact me:
- <a href="https://thalim-glam.github.io/TH-basic-portfolio/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png"/>
- </a>
- 
- <a href="https://www.linkedin.com/in/thalim-glam-stducberkley/" target="_blank">
-    <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
- </a>
- 
- <a href="mailto:shch.dhaka@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png"/>
- </a>
+
  
 
 
